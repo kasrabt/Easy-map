@@ -1,17 +1,22 @@
 {
   "name": "kmap",
   "version": "1.0.0",
-  "description": " simple but clean ! ",
+  "description": "simple but clean",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/kasrabt/Kmap-Easy-map.git"
   },
-  "keywords": ["KMAP"],
-  "author": "KASRA",
-  "license": "ISC"
-
+  "keywords": [
+    "KMAP"
+  ],
+  "author": "kasrabt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasrabt/Kmap-Easy-map/issues"
+  },
+  "homepage": "https://github.com/kasrabt/Kmap-Easy-map#readme"
 }
